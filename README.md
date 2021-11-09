@@ -1,1 +1,1 @@
-# Covid19-Classifier
+# Covid19 Classifier using X-Ray Images
